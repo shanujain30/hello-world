@@ -1,2 +1,2 @@
 # hello-world
-Beginning with github
+I am Shanu Jain, new beginner at github
